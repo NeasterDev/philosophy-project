@@ -3,11 +3,11 @@ import { Link } from "react-router-dom";
 const Nav = () => {
     return (
         <nav>
-            <ul>
-                <li><Link to="/">Home</Link></li>
-                <li><Link to="/about">About</Link></li>
-                <li><Link to="/content">Content</Link></li>
-                <li><Link to="/resources">Resources</Link></li>
+            <ul className="flex">
+                <li className="m-2"><Link to="/">Home</Link></li>
+                <li className="m-2"><Link to="/about">About</Link></li>
+                <li className="m-2"><Link to="/content">Content</Link></li>
+                <li className="m-2"><Link to="/resources">Resources</Link></li>
             </ul>
         </nav>
     )
