@@ -4,5 +4,9 @@
 
 * {
   font-family: 'Open Sans', sans-serif;
-  border: 1px solid green;
+  /* border: 1px solid green; */
+}
+
+img {
+  max-width: 49vw;
 }
