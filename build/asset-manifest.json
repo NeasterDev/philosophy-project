@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/philosophy-project/static/css/main.df2a9a6a.css",
+    "main.js": "/philosophy-project/static/js/main.fd3901f9.js",
+    "static/js/787.5f869300.chunk.js": "/philosophy-project/static/js/787.5f869300.chunk.js",
+    "static/media/frame_0_delay-s.jpg": "/philosophy-project/static/media/frame_0_delay-s.857d6872880430235b62.jpg",
+    "static/media/Robert-Nozick.webp": "/philosophy-project/static/media/Robert-Nozick.a2c8d2518c09f67b6884.webp",
+    "static/media/robert-book.jpg": "/philosophy-project/static/media/robert-book.89c1547df39fb6892be5.jpg",
+    "static/media/robert_nozick_portrait.jpeg": "/philosophy-project/static/media/robert_nozick_portrait.5028fcea31a1c3c70619.jpeg",
+    "index.html": "/philosophy-project/index.html",
+    "main.df2a9a6a.css.map": "/philosophy-project/static/css/main.df2a9a6a.css.map",
+    "main.fd3901f9.js.map": "/philosophy-project/static/js/main.fd3901f9.js.map",
+    "787.5f869300.chunk.js.map": "/philosophy-project/static/js/787.5f869300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df2a9a6a.css",
+    "static/js/main.fd3901f9.js"
+  ]
+}
