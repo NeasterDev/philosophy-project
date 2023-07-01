@@ -5,6 +5,7 @@ const Nav = () => {
         <nav className="flex justify-between bg-blue-300 py-1">
             {/* logo area, main button on nav bar */}
             <div className=" font-bold text-2xl m-2 hover:text-blue-500"><Link to="/philosophy-project">Robert Nozick</Link></div>
+            {/* Commenting to be able to push again */}
             {/* the rest of the links */}
             <ul className="flex text-xl">
                 <li className="m-2 hover:text-blue-500"><Link to="/about">About</Link></li>
